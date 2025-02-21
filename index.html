@@ -1,0 +1,348 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Bookmark Grid</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            display: flex;
+            flex-direction: column;
+            align-items: flex-start;
+            margin: 0;
+            height: 100vh;
+            overflow: hidden;
+        }
+        .grid {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 20px;
+            width: 100%;
+            padding: 20px;
+            overflow-y: auto;
+            justify-content: flex-start;
+            align-items: flex-start;
+        }
+        .category {
+            display: flex;
+            flex-direction: column;
+            align-items: flex-start;
+            margin-bottom: 20px;
+            width: 100%;
+        }
+        .category-title {
+            font-size: 18px;
+            font-weight: bold;
+            margin-bottom: 10px;
+            background: #f0f0f0;
+            padding: 5px 15px;
+            border-radius: 5px;
+        }
+        .bookmark-container {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 15px;
+            justify-content: flex-start;
+        }
+        .bookmark {
+            width: 200px;
+            height: 200px;
+            background: #f3f3f3;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: space-between;
+            text-align: center;
+            border-radius: 10px;
+            cursor: pointer;
+            overflow: hidden;
+            position: relative;
+            transition: transform 0.2s;
+        }
+        .bookmark:hover {
+            transform: scale(1.05);
+        }
+        .bookmark img {
+            width: 100%;
+            height: 150px;
+            object-fit: contain;
+            background: white;
+        }
+        .bookmark-title {
+            padding: 5px;
+            font-size: 14px;
+            font-weight: bold;
+            width: 100%;
+            background: rgba(255, 255, 255, 0.9);
+        }
+        .delete-btn, .edit-btn {
+            position: absolute;
+            top: 5px;
+            background: red;
+            color: white;
+            border: none;
+            border-radius: 50%;
+            width: 20px;
+            height: 20px;
+            font-size: 14px;
+            cursor: pointer;
+            display: none;
+        }
+        .delete-btn {
+            right: 5px;
+        }
+        .edit-btn {
+            right: 30px;
+            background: #28a745;
+        }
+        .bookmark:hover .delete-btn, .bookmark:hover .edit-btn {
+            display: block;
+        }
+        .popup {
+            display: none;
+            position: fixed;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            background: white;
+            padding: 20px;
+            box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+            border-radius: 10px;
+            z-index: 1000;
+            width: 300px;
+        }
+        .popup input, .popup select {
+            width: 100%;
+            margin-bottom: 10px;
+            padding: 5px;
+        }
+        .overlay {
+            display: none;
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background: rgba(0, 0, 0, 0.5);
+            z-index: 999;
+        }
+        .add-button {
+            position: fixed;
+            bottom: 20px;
+            right: 20px;
+            background: #007bff;
+            color: white;
+            border: none;
+            border-radius: 50%;
+            width: 50px;
+            height: 50px;
+            font-size: 24px;
+            cursor: pointer;
+        }
+    </style>
+</head>
+<body>
+    <div class="overlay" id="overlay" onclick="hidePopup()"></div>
+    <div class="popup" id="popup">
+        <input type="text" id="title" placeholder="Title" required>
+        <input type="url" id="url" placeholder="URL" required>
+        <select id="category">
+            <option value="General">General</option>
+            <option value="Work">Work</option>
+            <option value="Entertainment">Entertainment</option>
+            <option value="Education">Education</option>
+        </select>
+        <input type="text" id="newCategory" placeholder="New Category (or select above)">
+        <input type="url" id="iconUrl" placeholder="Custom Icon URL (optional)">
+        <button id="popupSubmit" onclick="addBookmark()">Add Bookmark</button>
+        <button onclick="hidePopup()">Close</button>
+    </div>
+    <div id="bookmarkContainer" class="grid"></div>
+    <button class="add-button" onclick="showPopup()">+</button>
+    
+    <script>
+        document.addEventListener("DOMContentLoaded", loadBookmarks);
+        let editingIndex = -1;
+
+        const defaultImage = `data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='200' height='150' viewBox='0 0 200 150'%3E%3Crect width='100%25' height='100%25' fill='%23cccccc'/%3E%3Ctext x='50%25' y='50%25' font-family='Arial, sans-serif' font-size='20' fill='%23000000' text-anchor='middle' dominant-baseline='middle'%3EImage Not Available%3C/text%3E%3C/svg%3E`;
+
+        function showPopup(isEdit = false, bookmark = {}) {
+            document.getElementById("popup").style.display = "block";
+            document.getElementById("overlay").style.display = "block";
+            document.getElementById("title").value = bookmark.title || "";
+            document.getElementById("url").value = bookmark.url || "";
+            document.getElementById("newCategory").value = "";
+            document.getElementById("iconUrl").value = bookmark.image || "";
+            const categorySelect = document.getElementById("category");
+            if (bookmark.category) categorySelect.value = bookmark.category;
+            
+            const submitBtn = document.getElementById("popupSubmit");
+            if (isEdit) {
+                submitBtn.textContent = "Update Bookmark";
+                submitBtn.onclick = () => updateBookmark(editingIndex);
+            } else {
+                submitBtn.textContent = "Add Bookmark";
+                submitBtn.onclick = addBookmark;
+            }
+        }
+
+        function hidePopup() {
+            document.getElementById("popup").style.display = "none";
+            document.getElementById("overlay").style.display = "none";
+            document.getElementById("title").value = "";
+            document.getElementById("url").value = "";
+            document.getElementById("newCategory").value = "";
+            document.getElementById("iconUrl").value = "";
+            editingIndex = -1;
+        }
+
+        async function getSourceIcon(url) {
+            try {
+                const baseUrl = new URL(url).origin;
+                const iconUrl = `${baseUrl}/favicon.ico`;
+                const response = await fetch(iconUrl, { method: 'HEAD' });
+                if (response.ok) {
+                    return iconUrl;
+                } else {
+                    throw new Error("Favicon not found");
+                }
+            } catch (error) {
+                console.error("Error fetching source icon:", error);
+                return defaultImage;
+            }
+        }
+
+        async function addBookmark() {
+            const title = document.getElementById("title").value;
+            const url = document.getElementById("url").value;
+            let category = document.getElementById("newCategory").value || document.getElementById("category").value;
+            const iconUrl = document.getElementById("iconUrl").value;
+            if (!title || !url) return alert("Title and URL are required!");
+            if (!category) category = "General";
+
+            let image = defaultImage; // Default to empty image
+            if (iconUrl) {
+                image = iconUrl; // Use custom icon URL if provided
+            } else {
+                // Prompt user to fetch favicon from source
+                const shouldFetchIcon = confirm(`No custom icon URL provided. Fetch favicon from ${new URL(url).origin}/favicon.ico?`);
+                if (shouldFetchIcon) {
+                    image = await getSourceIcon(url);
+                }
+            }
+
+            const bookmarks = JSON.parse(localStorage.getItem("bookmarks")) || [];
+            bookmarks.push({ title, url, category, image });
+            localStorage.setItem("bookmarks", JSON.stringify(bookmarks));
+            
+            updateCategoryDropdown();
+            hidePopup();
+            renderBookmarks();
+        }
+
+        async function updateBookmark(index) {
+            const title = document.getElementById("title").value;
+            const url = document.getElementById("url").value;
+            let category = document.getElementById("newCategory").value || document.getElementById("category").value;
+            const iconUrl = document.getElementById("iconUrl").value;
+            if (!title || !url) return alert("Title and URL are required!");
+            if (!category) category = "General";
+            
+            const bookmarks = JSON.parse(localStorage.getItem("bookmarks")) || [];
+            if (index >= 0 && index < bookmarks.length) {
+                let image = bookmarks[index].image; // Keep existing image by default
+                if (iconUrl) {
+                    image = iconUrl; // Use custom icon URL if provided
+                } else if (!bookmarks[index].image || bookmarks[index].image === defaultImage) {
+                    // Prompt only if no previous image or it was the default
+                    const shouldFetchIcon = confirm(`No custom icon URL provided. Fetch favicon from ${new URL(url).origin}/favicon.ico?`);
+                    if (shouldFetchIcon) {
+                        image = await getSourceIcon(url);
+                    } else {
+                        image = defaultImage;
+                    }
+                }
+                bookmarks[index] = { title, url, category, image };
+                localStorage.setItem("bookmarks", JSON.stringify(bookmarks));
+                updateCategoryDropdown();
+                hidePopup();
+                renderBookmarks();
+            }
+        }
+
+        function updateCategoryDropdown() {
+            const bookmarks = JSON.parse(localStorage.getItem("bookmarks")) || [];
+            const categories = [...new Set(bookmarks.map(b => b.category))];
+            const select = document.getElementById("category");
+            select.innerHTML = categories.map(cat => `<option value="${cat}">${cat}</option>`).join("");
+        }
+
+        function loadBookmarks() {
+            const bookmarks = JSON.parse(localStorage.getItem("bookmarks")) || [];
+            if (bookmarks.length > 0) updateCategoryDropdown();
+            renderBookmarks();
+        }
+
+        function renderBookmarks() {
+            const container = document.getElementById("bookmarkContainer");
+            container.innerHTML = "";
+            const bookmarks = JSON.parse(localStorage.getItem("bookmarks")) || [];
+            
+            const categories = {};
+            bookmarks.forEach(({ title, url, category, image }, index) => {
+                if (!categories[category]) {
+                    categories[category] = [];
+                }
+                categories[category].push({ title, url, image, index });
+            });
+            
+            for (const [category, items] of Object.entries(categories)) {
+                const categoryDiv = document.createElement("div");
+                categoryDiv.classList.add("category");
+                categoryDiv.innerHTML = `<div class='category-title'>${category}</div>`;
+                const bookmarkContainer = document.createElement("div");
+                bookmarkContainer.classList.add("bookmark-container");
+                
+                items.forEach(({ title, url, image, index }) => {
+                    const div = document.createElement("div");
+                    div.classList.add("bookmark");
+                    div.innerHTML = `
+                        <button class='delete-btn' onclick='deleteBookmark(${index});event.stopPropagation();'>×</button>
+                        <button class='edit-btn' onclick='editBookmark(${index});event.stopPropagation();'>✎</button>
+                        <img src='${image}' onerror='this.src="${defaultImage}"'>
+                        <div class='bookmark-title'>${title}</div>`;
+                    div.onclick = (e) => {
+                        if (e.button === 0) window.open(url, "_blank");
+                    };
+                    div.onmousedown = (e) => {
+                        if (e.button === 1) {
+                            e.preventDefault();
+                            window.open(url, "_blank");
+                        }
+                    };
+                    bookmarkContainer.appendChild(div);
+                });
+                categoryDiv.appendChild(bookmarkContainer);
+                container.appendChild(categoryDiv);
+            }
+        }
+
+        function deleteBookmark(index) {
+            const bookmarks = JSON.parse(localStorage.getItem("bookmarks")) || [];
+            bookmarks.splice(index, 1);
+            localStorage.setItem("bookmarks", JSON.stringify(bookmarks));
+            updateCategoryDropdown();
+            renderBookmarks();
+        }
+
+        function editBookmark(index) {
+            const bookmarks = JSON.parse(localStorage.getItem("bookmarks")) || [];
+            if (index < 0 || index >= bookmarks.length) return;
+            
+            editingIndex = index;
+            showPopup(true, bookmarks[index]);
+        }
+    </script>
+</body>
+</html>
