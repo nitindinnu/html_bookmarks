@@ -1,3 +1,4 @@
 
 {"title": "Google", "url": "https://www.google.com/", "category": "General", "image": "https://imagepng.org/google-icone-icon/google-icon/"}
 {"title": "Whatsapp Web", "url": "https://web.whatsapp.com/", "category": "General", "image": "https://imagepng.org/whatsapp-icone-icon/whatsapp-icone/"}
+{"title": "Proton_Mail", "url": "https://mail.proton.me/", "category": "E-Mail", "image": "https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/06/f8d84702.jpg"}
