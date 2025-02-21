@@ -3,28 +3,53 @@ name: Daily Bookmark Update
 on:
   schedule:
     - cron: '0 0 * * *' # Runs at midnight UTC daily
-  push: # Runs immediately on any push to the main branch
-    branches:
-      - main
   workflow_dispatch: # Allows manual triggering
+    inputs:
+      title:
+        description: 'Bookmark title'
+        required: true
+      url:
+        description: 'Bookmark URL'
+        required: true
+      category:
+        description: 'Bookmark category'
+        default: 'General'
+      image:
+        description: 'Bookmark image URL'
+        default: ''
 
 jobs:
   append-bookmark:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write # Grant write access to repository contents
     steps:
       - name: Checkout repository
         uses: actions/checkout@v3
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }} # Use the default token
 
       - name: Append New Bookmark to bookmarks.txt
         run: |
-          echo "{\"title\": \"Update $(date +%Y-%m-%dT%H:%M:%S%Z)\", \"url\": \"https://example.com/update-$(date +%Y-%m-%dT%H:%M:%S%Z)\", \"category\": \"Updates\", \"image\": \"${defaultImage}\"}" >> bookmarks.txt
+          if [ -n "${{ github.event.inputs.title }}" ]; then
+            TITLE="${{ github.event.inputs.title }}"
+            URL="${{ github.event.inputs.url }}"
+            CATEGORY="${{ github.event.inputs.category }}"
+            IMAGE="${{ github.event.inputs.image || defaultImage }}"
+          else
+            TITLE="Daily Update $(date +%Y-%m-%d)"
+            URL="https://example.com/daily-$(date +%Y-%m-%d)"
+            CATEGORY="Daily"
+            IMAGE="${defaultImage}"
+          fi
+          echo "{\"title\": \"$TITLE\", \"url\": \"$URL\", \"category\": \"$CATEGORY\", \"image\": \"$IMAGE\"}" >> bookmarks.txt
         env:
           defaultImage: "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='200' height='150' viewBox='0 0 200 150'%3E%3Crect width='100%25' height='100%25' fill='%23cccccc'/%3E%3Ctext x='50%25' y='50%25' font-family='Arial, sans-serif' font-size='20' fill='%23000000' text-anchor='middle' dominant-baseline='middle'%3EImage Not Available%3C/text%3E%3C/svg%3E"
 
-      - name: Commit changes
+      - name: Commit and Push changes
         run: |
           git config --global user.name 'nitindinnu'
           git config --global user.email 'nitin2239@protonmail.com'
           git add bookmarks.txt
-          git commit -m "Update: added bookmark for $(date +%Y-%m-%dT%H:%M:%S%Z)" || echo "No changes to commit"
+          git commit -m "Update: added bookmark '${{ github.event.inputs.title || 'Daily Update' }}' on $(date +%Y-%m-%dT%H:%M:%S%Z)" || echo "No changes to commit"
           git push
