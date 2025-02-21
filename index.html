@@ -5,7 +5,6 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Bookmark Grid</title>
     <style>
-        /* Your existing CSS remains unchanged */
         body {
             font-family: Arial, sans-serif;
             display: flex;
@@ -170,9 +169,8 @@
 
         async function fetchDefaultBookmarks() {
             try {
-                // Add cache-busting parameter to avoid browser caching
                 const response = await fetch(`./bookmarks.txt?ts=${Date.now()}`, {
-                    cache: 'no-store' // Force fresh fetch
+                    cache: 'no-store'
                 });
                 if (!response.ok) throw new Error('Failed to fetch bookmarks.txt');
                 const text = await response.text();
@@ -198,7 +196,6 @@
             const defaultBookmarks = await fetchDefaultBookmarks();
             const storedBookmarks = JSON.parse(localStorage.getItem("bookmarks")) || [];
             
-            // Merge default bookmarks into stored bookmarks, avoiding duplicates
             defaultBookmarks.forEach(defaultBookmark => {
                 if (!storedBookmarks.some(b => b.title === defaultBookmark.title && b.url === defaultBookmark.url)) {
                     storedBookmarks.push(defaultBookmark);
@@ -210,7 +207,7 @@
         }
 
         async function loadBookmarks() {
-            await updateBookmarks(); // Fetch and merge latest bookmarks
+            await updateBookmarks();
             renderBookmarks();
         }
 
@@ -352,12 +349,20 @@
                         <img src='${image}' onerror='this.src="${defaultImage}"'>
                         <div class='bookmark-title'>${title}</div>`;
                     div.onclick = (e) => {
-                        if (e.button === 0) window.open(url, "_blank");
+                        if (e.button === 0) { // Left click
+                            window.open(url, "_blank");
+                        }
                     };
                     div.onmousedown = (e) => {
-                        if (e.button === 1) {
+                        if (e.button === 1) { // Middle click
                             e.preventDefault();
                             window.open(url, "_blank");
+                        }
+                    };
+                    div.oncontextmenu = (e) => {
+                        e.preventDefault(); // Prevent context menu
+                        if (confirm("Open page in new tab?")) {
+                            window.open(url, "_blank"); // Right click with confirmation
                         }
                     };
                     bookmarkContainer.appendChild(div);
@@ -383,11 +388,10 @@
             showPopup(true, bookmarks[index]);
         }
 
-        // Optional: Refresh bookmarks periodically (e.g., every 5 minutes)
         setInterval(async () => {
             await updateBookmarks();
             renderBookmarks();
-        }, 300000); // 300,000 ms = 5 minutes
+        }, 300000); // 5 minutes
     </script>
 </body>
 </html>
