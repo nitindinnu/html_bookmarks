@@ -3,4 +3,4 @@
 {"title": "Whatsapp Web", "url": "https://web.whatsapp.com/", "category": "General", "image": "https://imagepng.org/whatsapp-icone-icon/whatsapp-icone/"}
 {"title": "Proton_Mail", "url": "https://mail.proton.me/", "category": "E-Mail", "image": "https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/06/f8d84702.jpg"}
 {"title": "G-Mail", "url": "https://mail.google.com/mail/", "category": "E-Mail", "image": "https://logos-world.net/wp-content/uploads/2020/11/Gmail-Logo.png"}
-{"title": "Yahoo Mail", "url": "https://mail.yahoo.com/", "category": "E-Mail", "image": "https://s.yimg.com/nq/nr/img/yahoo_mail_global_english_white_2x_A6ncybctetL1Rrnktv0yukBBnRW-U1ioDXOW1MZ8xwg_v1.png"}
+{"title": "Yahoo Mail", "url": "https://mail.yahoo.com/", "category": "E-Mail", "image": "https://i.pcmag.com/imagery/articles/077gxh38bdIAES53P9p0EFo-1.fit_lim.v1604934359.jpg"}
