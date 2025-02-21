@@ -1,2 +1,3 @@
 
 {"title": "Google", "url": "https://www.google.com/", "category": "General", "image": "https://imagepng.org/google-icone-icon/google-icon/"}
+{"title": "Whatsapp Web", "url": "https://web.whatsapp.com/", "category": "General", "image": "https://imagepng.org/whatsapp-icone-icon/whatsapp-icone/"}
