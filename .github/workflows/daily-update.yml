@@ -6,41 +6,22 @@ on:
   workflow_dispatch: # Allows manual triggering
 
 jobs:
-  update-bookmarks:
+  append-bookmark:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repository
         uses: actions/checkout@v3
 
-      - name: Set up Node.js
-        uses: actions/setup-node@v3
-        with:
-          node-version: '16'
-
-      - name: Append New Bookmark
+      - name: Append New Bookmark to bookmarks.txt
         run: |
-          node -e "
-            const fs = require('fs');
-            let html = fs.readFileSync('index.html', 'utf8');
-            const newBookmark = { 
-              title: 'Daily Update ${new Date().toISOString().split('T')[0]}', 
-              url: 'https://example.com/daily-${new Date().toISOString().split('T')[0]}', 
-              category: 'Daily', 
-              image: '${defaultImage}' 
-            };
-            const defaultBookmarksIndex = html.indexOf('const defaultBookmarks = [');
-            const arrayStart = html.indexOf('[', defaultBookmarksIndex);
-            const arrayEnd = html.indexOf('];', arrayStart) + 1;
-            const existingArray = html.slice(arrayStart, arrayEnd);
-            const updatedArray = existingArray.slice(0, -1) + ',' + JSON.stringify(newBookmark) + existingArray.slice(-1);
-            const updatedHtml = html.slice(0, arrayStart) + updatedArray + html.slice(arrayEnd);
-            fs.writeFileSync('index.html', updatedHtml);
-          "
+          echo "{\"title\": \"Daily Update $(date +%Y-%m-%d)\", \"url\": \"https://example.com/daily-$(date +%Y-%m-%d)\", \"category\": \"Daily\", \"image\": \"${defaultImage}\"}" >> bookmarks.txt
+        env:
+          defaultImage: "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='200' height='150' viewBox='0 0 200 150'%3E%3Crect width='100%25' height='100%25' fill='%23cccccc'/%3E%3Ctext x='50%25' y='50%25' font-family='Arial, sans-serif' font-size='20' fill='%23000000' text-anchor='middle' dominant-baseline='middle'%3EImage Not Available%3C/text%3E%3C/svg%3E"
 
       - name: Commit changes
         run: |
           git config --global user.name 'GitHub Action'
           git config --global user.email 'action@github.com'
-          git add index.html
+          git add bookmarks.txt
           git commit -m "Daily update: added bookmark for $(date +%Y-%m-%d)" || echo "No changes to commit"
           git push
