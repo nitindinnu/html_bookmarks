@@ -59,3 +59,5 @@
 {"title": "ERP BITS", "url": "https://erp.bits-pilani.ac.in/", "category": "BITS", "image": "https://admission.bits-pilani.ac.in/images/logo.png"}
 {"title": "online2PDF MULTI PAGES", "url": "https://online2pdf.com/multiple-pages-per-sheet#", "category": "BITS", "image": "https://images.hipdf.com/articles/top-online-pdf-software/online2pdf-bmp-to-pdf-converter.jpg"}
 {"title": "online2PDF", "url": "https://online2pdf.com/#", "category": "BITS", "image": "https://images.hipdf.com/articles/top-online-pdf-software/online2pdf-bmp-to-pdf-converter.jpg"}
+{"title": "MY ATHENS", "url": "https://my.openathens.net/app/research", "category": "BITS", "image": "https://admission.bits-pilani.ac.in/images/logo.png"}
+{"title": "RESEARCH GATE", "url": "https://www.researchgate.net/", "category": "BITS", "image": "https://help.researchgate.net/hc/article_attachments/17825143629969"}
