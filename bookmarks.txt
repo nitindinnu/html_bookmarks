@@ -25,7 +25,7 @@
 {"title": "MS teams", "url": "https://teams.microsoft.com/v2/", "category": "BITS", "image": "https://logos-world.net/wp-content/uploads/2021/04/Microsoft-Teams-Logo.png"}
 #{"title": "", "url": "", "category": "", "image": ""}
 #{"title": "", "url": "", "category": "", "image": ""}
-{"title": "Grok", "url": "https://x.ai/grok", "category": "AI", "image": "https://img-api.mac4ever.com/900/0/05e387909d_twitter-x-grok.webp"}
+{"title": "Grok", "url": "https://grok.com/?referrer=website", "category": "AI", "image": "https://img-api.mac4ever.com/900/0/05e387909d_twitter-x-grok.webp"}
 {"title": "Claude", "url": "https://claude.ai/", "category": "AI", "image": "https://data-espresso.com/wp-content/uploads/2024/07/claude_ogimage.png"}
 
 
