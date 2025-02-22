@@ -1,5 +1,5 @@
 {"title": "Google", "url": "https://www.google.com/", "category": "General", "image": "https://logosmarcas.net/wp-content/uploads/2020/09/Google-Emblema.png"}
-{"title": "Whatsapp Web", "url": "https://web.whatsapp.com/", "category": "General", "image": "https://static.vecteezy.com/system/resources/previews/021/460/383/original/whatsapp-logo-free-png.png"}
+{"title": "Whatsapp Web", "url": "https://web.whatsapp.com/", "category": "General", "image": "https://logos-download.com/wp-content/uploads/2016/03/LinkedIn_Logo_2019.png"}
 {"title": "Proton_Mail", "url": "https://mail.proton.me/", "category": "E-Mail", "image": "https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/06/f8d84702.jpg"}
 {"title": "G-Mail", "url": "https://mail.google.com/mail/", "category": "E-Mail", "image": "https://logos-world.net/wp-content/uploads/2020/11/Gmail-Logo.png"}
 {"title": "Yahoo Mail", "url": "https://mail.yahoo.com/", "category": "E-Mail", "image": "https://i.pcmag.com/imagery/articles/077gxh38bdIAES53P9p0EFo-1.fit_lim.v1604934359.jpg"}
