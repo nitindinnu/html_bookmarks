@@ -6,13 +6,13 @@
 {"title": "Outlook Mail", "url": "https://outlook.live.com/mail/", "category": "E-Mail", "image": "https://logospng.org/download/microsoft-outlook/logo-microsoft-outlook-1024.png"}
 
 {"title": "EDA Playground", "url": "https://www.edaplayground.com/", "category": "General", "image": "https://cdn-1.webcatalog.io/catalog/eda-playground/eda-playground-social-preview.png?v=1714774237031"}
-{"title": "Linkedin", "url": "https://www.linkedin.com/feed/", "category": "General", "image": "https://logospng.org/download/linkedin/logo-linkedin-icon-1536.png"}
+{"title": "Linkedin", "url": "https://www.linkedin.com/feed/", "category": "General", "image": "https://logos-download.com/wp-content/uploads/2016/03/LinkedIn_Logo_2019.png"}
 {"title": "Youtube", "url": "https://www.youtube.com/", "category": "General", "image": "https://www.interstellarrift.com/wiki/images/d/d8/Youtube-logo-png-photo-0.png"}
 {"title": "Nextdns", "url": "https://my.nextdns.io/", "category": "General", "image": "https://www.aaflalo.me/wp-content/uploads/2021/10/nextdns-945x531.jpg"}
 {"title": "Raindrop", "url": "https://app.raindrop.io/", "category": "General", "image": "https://play-lh.googleusercontent.com/FDX_PGBdliKrVmYuXa67x8I9N3iC3nlQNGegqRf_Jz0wSh02PBdJ-peKg4rMc-Vk8PM=w480-h960-rw"}
 {"title": "Gist Github", "url": "https://gist.github.com/nitindinnu", "category": "General", "image": "https://i.ytimg.com/vi/fUUXus8gGk0/maxresdefault.jpg"}
 {"title": "Github", "url": "https://github.com/", "category": "General", "image": "https://logos-world.net/wp-content/uploads/2020/11/GitHub-Logo.png"}
-{"title": "Mega", "url": "https://mega.nz/", "category": "General", "image": "https://www.techieshelp.com/wp-content/uploads/2018/05/mega-cloud.jpg"}
+{"title": "Mega", "url": "https://mega.nz/", "category": "General", "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/d3/dd/e8/d3dde82d-03a8-3df0-ef06-b5433aae4fa3/source/512x512bb.jpg"}
 {"title": "Flipkart", "url": "https://www.flipkart.com/", "category": "General", "image": "https://logos-world.net/wp-content/uploads/2020/11/Flipkart-Logo-2015-present.jpg"}
 {"title": "Amazon", "url": "https://www.amazon.in/", "category": "General", "image": "https://1.bp.blogspot.com/-BXfD_cZOtOs/VDmw7RyUWvI/AAAAAAAAFeo/KlBE4G8bOR0/s1600/Logo%2BAmazon.png"}
 
