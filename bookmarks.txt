@@ -15,7 +15,7 @@
 {"title": "Mega", "url": "https://mega.nz/", "category": "General", "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/d3/dd/e8/d3dde82d-03a8-3df0-ef06-b5433aae4fa3/source/512x512bb.jpg"}
 {"title": "Flipkart", "url": "https://www.flipkart.com/", "category": "General", "image": "https://logos-world.net/wp-content/uploads/2020/11/Flipkart-Logo-2015-present.jpg"}
 {"title": "Amazon", "url": "https://www.amazon.in/", "category": "General", "image": "https://1.bp.blogspot.com/-BXfD_cZOtOs/VDmw7RyUWvI/AAAAAAAAFeo/KlBE4G8bOR0/s1600/Logo%2BAmazon.png"}
-
+{"title": "Onedrive", "url": "https://onedrive.live.com/", "category": "General", "image": "https://www.gestalia.es/wp-content/uploads/2015/09/OneDrive-Logo.png"}
 
 
 {"title": "chatgpt", "url": "https://chatgpt.com/", "category": "AI", "image": "https://logos-world.net/wp-content/uploads/2023/02/ChatGPT-Logo.jpg"}
