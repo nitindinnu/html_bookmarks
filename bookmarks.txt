@@ -6,7 +6,7 @@
 {"title": "Outlook Mail", "url": "https://outlook.live.com/mail/", "category": "E-Mail", "image": "https://logospng.org/download/microsoft-outlook/logo-microsoft-outlook-1024.png"}
 
 {"title": "EDA Playground", "url": "https://www.edaplayground.com/", "category": "General", "image": "https://cdn-1.webcatalog.io/catalog/eda-playground/eda-playground-social-preview.png?v=1714774237031"}
-{"title": "Linkedin", "url": "https://www.linkedin.com/feed/", "category": "General", "image": "https://static.vecteezy.com/system/resources/previews/014/018/583/non_2x/linkedin-logo-on-transparent-background-free-vector.jpg"}
+{"title": "Linkedin", "url": "https://www.linkedin.com/feed/", "category": "General", "image": "https://logospng.org/download/linkedin/logo-linkedin-icon-1536.png"}
 {"title": "Youtube", "url": "https://www.youtube.com/", "category": "General", "image": "https://www.interstellarrift.com/wiki/images/d/d8/Youtube-logo-png-photo-0.png"}
 {"title": "Nextdns", "url": "https://my.nextdns.io/", "category": "General", "image": "https://www.aaflalo.me/wp-content/uploads/2021/10/nextdns-945x531.jpg"}
 {"title": "Raindrop", "url": "https://app.raindrop.io/", "category": "General", "image": "https://play-lh.googleusercontent.com/FDX_PGBdliKrVmYuXa67x8I9N3iC3nlQNGegqRf_Jz0wSh02PBdJ-peKg4rMc-Vk8PM=w480-h960-rw"}
