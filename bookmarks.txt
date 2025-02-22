@@ -6,7 +6,7 @@
 {"title": "Fast speedtest", "url": "https://fast.com/", "category": "General", "image": "https://cdn-1.webcatalog.io/catalog/fast/fast-icon.png"}
 {"title": "192.168.1.1", "url": "https://192.168.1.1/", "category": "General", "image": "https://askanydifference.com/wp-content/uploads/2024/03/192.168.1.1.jpg"}
 {"title": "192.168.0.1", "url": "https://192.168.1.1/", "category": "General", "image": "https://router101.com/wp-content/uploads/2021/06/19216801-Login.jpg"}
-{"title": "JioHotstar", "url": "https://www.hotstar.com/in/home", "category": "General", "image": "https://media.licdn.com/dms/image/v2/D5612AQGZi7qw1JuwNQ/article-cover_image-shrink_720_1280/B56ZUE69FCHEAI-/0/1739544319212?e=1745452800&v=beta&t=PrPkcB2b01gR0hZvP54Xa6m_cprrMgAmaZ9mNSQTyUo"}
+{"title": "JioHotstar", "url": "https://www.hotstar.com/in/home", "category": "General", "image": "https://www.m9.news/wp-content/uploads/2025/02/jio-hotstar-live-technical-issues-frustrate-users-1024x640.jpg"}
 
 
 {"title": "Proton_Mail", "url": "https://mail.proton.me/", "category": "E-Mail", "image": "https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/06/f8d84702.jpg"}
