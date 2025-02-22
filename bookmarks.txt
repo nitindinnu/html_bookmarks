@@ -75,7 +75,7 @@
 {"title": "SC BANK", "url": "https://retail.sc.com/in/nfs/login.htm", "category": "E-BANKING", "image": "https://www.greatplacetowork.com/images/profiles/7015143/company_image_1.png"}
 {"title": "BOB", "url": "https://www.bankofbaroda.in/personal-banking/digital-products/instant-banking/bob-world-internet-banking", "category": "E-BANKING", "image": "https://1.bp.blogspot.com/-9jrWBuQ8D-s/XefTxFtxDnI/AAAAAAAAFrc/fyWkkXhnHhgif42VgH0lOZsacWeHvMOfwCEwYBhgL/s1600/bob%2Bnet%2Bbanking.jpg"}
 {"title": "AXIS OMNI", "url": "https://omni.axisbank.co.in/axisretailbanking/", "category": "E-BANKING", "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/43/b3/f5/43b3f519-1239-4e32-6a5e-ec5f5379b7d0/AppIcon-0-0-1x_U007emarketing-0-0-0-6-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/1200x630wa.png"}
-{"title": "SBI BANK", "url": "https://www.sbicard.com/creditcards/app/dashboard", "category": "E-BANKING", "image": "https://mews.in/wp-content/uploads/2021/05/SBI-LOGO-HISTORY.jpg"}
+{"title": "SBI BANK", "url": "https://www.sbicard.com/creditcards/", "category": "E-BANKING", "image": "https://mews.in/wp-content/uploads/2021/05/SBI-LOGO-HISTORY.jpg"}
 {"title": "KOTAK", "url": "https://netbanking.kotak.com/knb2/", "category": "E-BANKING", "image": "https://logos-download.com/wp-content/uploads/2016/06/Kotak_Mahindra_Bank_logo.png"}
 {"title": "IDFC FIRST", "url": "https://my.idfcfirstbank.com/login/", "category": "E-BANKING", "image": "https://logos-download.com/wp-content/uploads/2022/11/IDFC_First_Bank_Logo-2048x730.png"}
 {"title": "HDFC", "url": "https://netportal.hdfcbank.com/login#/openMarketLoginCC", "category": "E-BANKING", "image": "https://logohistory.net/wp-content/uploads/2023/08/HDFC-Bank-Limited-Logo.jpg"}
