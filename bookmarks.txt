@@ -8,6 +8,9 @@
 {"title": "192.168.0.1", "url": "https://192.168.0.1/", "category": "General", "image": "https://router101.com/wp-content/uploads/2021/06/19216801-Login.jpg"}
 {"title": "JioHotstar", "url": "https://www.hotstar.com/in/home", "category": "General", "image": "https://www.m9.news/wp-content/uploads/2025/02/jio-hotstar-live-technical-issues-frustrate-users-1024x640.jpg"}
 {"title": "Reddit", "url": "https://www.reddit.com/", "category": "General", "image": "https://logos-download.com/wp-content/uploads/2016/06/Reddit_logo_full_1.png"}
+{"title": "Office365", "url": "https://www.microsoft365.com/", "category": "General", "image": "https://upload.wikimedia.org/wikipedia/commons/8/85/Microsoft_365_logo.png"}
+{"title": "Odelsi song search", "url": "https://odesli.co/", "category": "General", "image": "https://songlink-public.s3-us-west-1.amazonaws.com/songlink-odesli-og-image-thumbnail.png"}
+{"title": "Apple Music", "url": "https://music.apple.com/in/home", "category": "General", "image": "https://images.macrumors.com/t/pE5A7lxTRAsaWVcZIMjLL-0I4Tk=/1600x0/article-new/2020/12/apple-music-logo.jpg"}
 
 {"title": "Proton_Mail", "url": "https://mail.proton.me/", "category": "E-Mail", "image": "https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/06/f8d84702.jpg"}
 {"title": "G-Mail", "url": "https://mail.google.com/mail/", "category": "E-Mail", "image": "https://logos-world.net/wp-content/uploads/2020/11/Gmail-Logo.png"}
