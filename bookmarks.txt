@@ -1,5 +1,14 @@
 {"title": "Google", "url": "https://www.google.com/", "category": "General", "image": "https://logosmarcas.net/wp-content/uploads/2020/09/Google-Emblema.png"}
 {"title": "Whatsapp Web", "url": "https://web.whatsapp.com/", "category": "General", "image": "https://portalkairos.org/wp-content/uploads/2015/01/whatsapp_logo.png"}
+{"title": "JustPasteit", "url": "https://justpaste.it/", "category": "General", "image": "https://cdn-1.webcatalog.io/catalog/justpaste-it/justpaste-it-icon-filled-256.png?v=1675593532229"}
+{"title": "Conceptkart", "url": "https://conceptkart.com/", "category": "General", "image": "https://www.slideserve.com/photo/1617628.jpg"}
+{"title": "Speedtest ookla", "url": "https://www.speedtest.net/", "category": "General", "image": "https://logos-download.com/wp-content/uploads/2020/06/Speedtest.net_Logo_horizontally.png"}
+{"title": "Fast speedtest", "url": "https://fast.com/", "category": "General", "image": "https://cdn-1.webcatalog.io/catalog/fast/fast-icon.png"}
+{"title": "192.168.1.1", "url": "https://192.168.1.1/", "category": "General", "image": "https://askanydifference.com/wp-content/uploads/2024/03/192.168.1.1.jpg"}
+{"title": "192.168.0.1", "url": "https://192.168.1.1/", "category": "General", "image": "https://router101.com/wp-content/uploads/2021/06/19216801-Login.jpg"}
+{"title": "JioHotstar", "url": "https://www.hotstar.com/in/home", "category": "General", "image": "https://media.licdn.com/dms/image/v2/D5612AQGZi7qw1JuwNQ/article-cover_image-shrink_720_1280/B56ZUE69FCHEAI-/0/1739544319212?e=1745452800&v=beta&t=PrPkcB2b01gR0hZvP54Xa6m_cprrMgAmaZ9mNSQTyUo"}
+
+
 {"title": "Proton_Mail", "url": "https://mail.proton.me/", "category": "E-Mail", "image": "https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/06/f8d84702.jpg"}
 {"title": "G-Mail", "url": "https://mail.google.com/mail/", "category": "E-Mail", "image": "https://logos-world.net/wp-content/uploads/2020/11/Gmail-Logo.png"}
 {"title": "Yahoo Mail", "url": "https://mail.yahoo.com/", "category": "E-Mail", "image": "https://i.pcmag.com/imagery/articles/077gxh38bdIAES53P9p0EFo-1.fit_lim.v1604934359.jpg"}
@@ -68,3 +77,5 @@
 {"title": "AXIS OMNI", "url": "https://omni.axisbank.co.in/axisretailbanking/", "category": "E-BANKING", "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/43/b3/f5/43b3f519-1239-4e32-6a5e-ec5f5379b7d0/AppIcon-0-0-1x_U007emarketing-0-0-0-6-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/1200x630wa.png"}
 {"title": "SBI BANK", "url": "https://www.sbicard.com/creditcards/app/dashboard", "category": "E-BANKING", "image": "https://mews.in/wp-content/uploads/2021/05/SBI-LOGO-HISTORY.jpg"}
 {"title": "KOTAK", "url": "https://netbanking.kotak.com/knb2/", "category": "E-BANKING", "image": "https://logos-download.com/wp-content/uploads/2016/06/Kotak_Mahindra_Bank_logo.png"}
+{"title": "IDFC FIRST", "url": "https://my.idfcfirstbank.com/login/", "category": "E-BANKING", "image": "https://logos-download.com/wp-content/uploads/2022/11/IDFC_First_Bank_Logo-2048x730.png"}
+{"title": "HDFC", "url": "https://netportal.hdfcbank.com/login#/openMarketLoginCC", "category": "E-BANKING", "image": "https://logohistory.net/wp-content/uploads/2023/08/HDFC-Bank-Limited-Logo.jpg"}
