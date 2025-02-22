@@ -37,6 +37,8 @@
 {"title": "Twitter X", "url": "https://x.com/home", "category": "General", "image": "https://imgs.hipertextual.com/wp-content/uploads/2023/07/x-twitter-001.jpg"}
 {"title": "YT", "url": "https://www.youtube.com/", "category": "General", "image": "https://s3-eu-central-1.amazonaws.com/centaur-wp/designweek/prod/content/uploads/2017/08/30151749/yt_logo_rgb_light2.jpg"}
 {"title": "YT MUSIC", "url": "https://music.youtube.com/", "category": "General", "image": "https://estaticos.sport.es/resources/jpg/7/3/1581166298637.jpg"}
+{"title": "EPFO", "url": "https://unifiedportal-mem.epfindia.gov.in/memberinterface/", "category": "General", "image": "https://www.goodreturns.in/img/1200x60x675/2022/10/epf1-1666692613.jpg"}
+{"title": "EPFO PASSBOOK", "url": "https://passbook.epfindia.gov.in/MemberPassBook/login", "category": "General", "image": "https://digivillfin.in/content/images/2024/07/View-Passbook-of-EPFO-on-UMANG.png"}
 {"title": "Verssel", "url": "https://v0.dev/chat", "category": "AI", "image": "https://149842345.v2.pressablecdn.com/wp-content/uploads/2023/08/vercel-cloud-hosting-platform.jpg"}
 
 
