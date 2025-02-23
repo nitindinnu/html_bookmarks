@@ -7,8 +7,8 @@
 {"title": "Conceptkart", "url": "https://conceptkart.com/", "category": "General", "image": "https://www.slideserve.com/photo/1617628.jpg"}
 {"title": "Speedtest ookla", "url": "https://www.speedtest.net/", "category": "General", "image": "https://logos-download.com/wp-content/uploads/2020/06/Speedtest.net_Logo_horizontally.png"}
 {"title": "Fast speedtest", "url": "https://fast.com/", "category": "General", "image": "https://cdn-1.webcatalog.io/catalog/fast/fast-icon.png"}
-{"title": "192.168.1.1", "url": "192.168.1.1", "category": "General", "image": "https://askanydifference.com/wp-content/uploads/2024/03/192.168.1.1.jpg"}
-{"title": "192.168.0.1", "url": "192.168.0.1", "category": "General", "image": "https://router101.com/wp-content/uploads/2021/06/19216801-Login.jpg"}
+{"title": "192.168.1.1", "url": "http://192.168.1.1", "category": "General", "image": "https://askanydifference.com/wp-content/uploads/2024/03/192.168.1.1.jpg"}
+{"title": "192.168.0.1", "url": "http://192.168.0.1", "category": "General", "image": "https://router101.com/wp-content/uploads/2021/06/19216801-Login.jpg"}
 {"title": "JioHotstar", "url": "https://www.hotstar.com/in/home", "category": "General", "image": "https://www.m9.news/wp-content/uploads/2025/02/jio-hotstar-live-technical-issues-frustrate-users-1024x640.jpg"}
 {"title": "Reddit", "url": "https://www.reddit.com/", "category": "General", "image": "https://logos-download.com/wp-content/uploads/2016/06/Reddit_logo_full_1.png"}
 {"title": "Office365", "url": "https://www.microsoft365.com/", "category": "General", "image": "https://upload.wikimedia.org/wikipedia/commons/8/85/Microsoft_365_logo.png"}
