@@ -73,7 +73,7 @@
 {"title": "Enhancer for YouTube", "url": "https://chromewebstore.google.com/detail/enhancer-for-youtube/ponfpcnoihfmfllpaingbgckeeldkhle", "category": "Chrome Extensions", "image": ""}
 
 {"title": "LAB ACCESS", "url": "https://osha-bits.codeargo.net/", "category": "BITS", "image": "https://admission.bits-pilani.ac.in/images/logo.png"}
-{"title": "TAXILA", "url": "https://taxila-aws.bits-pilani.ac.in/my/courses.php", "category": "BITS", "image": "https://admission.bits-pilani.ac.in/images/logo.png"}
+{"title": "TAXILA", "url": "https://taxila-aws.bits-pilani.ac.in/calendar/view.php?view=upcoming", "category": "BITS", "image": "https://admission.bits-pilani.ac.in/images/logo.png"}
 {"title": "METTL", "url": "https://certification.mettl.com/bits-pilani-wilp/applicant/login", "category": "BITS", "image": "https://financesonline.com/uploads/2019/09/Mettl-logo1.png"}
 {"title": "NANOHUB", "url": "https://nanohub.org/login?primary=hubzero&reset=1&return=aHR0cHM6Ly9uYW5vaHViLm9yZy9tZW1iZXJzL3JlZ2lzdGVyL2NvbmZpcm0/Y29uZmlybT0xNjg3OTc3OTYmcmV0dXJuPQ==", "category": "BITS", "image": "https://nanohub.org/app/site/groups/20842/uploads/nanoHUB_bluefull.png"}
 {"title": "ERP BITS", "url": "https://erp.bits-pilani.ac.in/", "category": "BITS", "image": "https://admission.bits-pilani.ac.in/images/logo.png"}
