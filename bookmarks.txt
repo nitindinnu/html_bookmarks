@@ -23,6 +23,7 @@
 {"title": "Epic Games", "url": "https://store.epicgames.com/en-US/free-games", "category": "General", "image": "https://logos-world.net/wp-content/uploads/2021/12/Epic-Games-Symbol.png"}
 {"title": "SonyLiv", "url": "https://www.sonyliv.com/", "category": "General", "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/15/86/18/158618f0-e78f-c1ed-efa8-51fe5c7e86b5/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/1200x630wa.png"}
 {"title": "Instagram", "url": "https://www.instagram.com/", "category": "General", "image": "https://logospng.org/download/instagram/logo-instagram-4096.png"}
+{"title": "Sensongsmp3", "url": "https://sensongsmp3.live/", "category": "General", "image": ""}
 
 
 
@@ -65,6 +66,7 @@
 
 
 {"title": "Bitwarden Password Manager", "url": "https://chromewebstore.google.com/detail/bitwarden-password-manage/nngceckbapebfimnlniiiahkandclblb", "category": "Chrome Extensions", "image": ""}
+{"title": "Reels Download", "url": "https://chromewebstore.google.com/detail/reel-downloader-for-insta/clbmpindgjghmmjnimonbacdodbdnnkj", "category": "Chrome Extensions", "image": ""}
 {"title": "DuckDuckGo Privacy Essentials", "url": "https://chromewebstore.google.com/detail/duckduckgo-privacy-essent/bkdgflcldnnnapblkhphbgpggdiikppg", "category": "Chrome Extensions", "image": ""}
 {"title": "Markdown Viewer", "url": "https://chromewebstore.google.com/detail/markdown-viewer/ckkdlimhmcjmikdlpkmbgfkaikojcbjk", "category": "Chrome Extensions", "image": ""}
 {"title": "Privacy Extension For WhatsApp Web", "url": "https://chromewebstore.google.com/detail/privacy-extension-for-wha/jbojhlhhggfmmkpefknmbdhlaghehini", "category": "Chrome Extensions", "image": ""}
