@@ -96,4 +96,5 @@
 {"title": "HDFC", "url": "https://netportal.hdfcbank.com/login#/openMarketLoginCC", "category": "E-BANKING", "image": "https://logohistory.net/wp-content/uploads/2023/08/HDFC-Bank-Limited-Logo.jpg"}
 
 {"title": "Windows Repair tool", "url": "https://windows-repair-toolbox.com/", "category": "WIN_APPS", "image": ""}
+{"title": "IMG2PDF OFFLINE", "url": "https://subhra74.github.io/img2pdf/", "category": "General", "image":"https://jpcdn.it/img/e736f91d7e8226a2320faa5975f86aa2.png"}
 
