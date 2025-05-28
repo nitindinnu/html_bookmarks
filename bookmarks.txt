@@ -42,6 +42,9 @@
 {"title": "Amazon", "url": "https://www.amazon.in/", "category": "General", "image": "https://1.bp.blogspot.com/-BXfD_cZOtOs/VDmw7RyUWvI/AAAAAAAAFeo/KlBE4G8bOR0/s1600/Logo%2BAmazon.png"}
 {"title": "Onedrive", "url": "https://onedrive.live.com/", "category": "General", "image": "https://www.gestalia.es/wp-content/uploads/2015/09/OneDrive-Logo.png"}
 
+{"title": "Gsheets u0", "url": "https://docs.google.com/spreadsheets/u/0/", "category": "General", "image": "https://www.liveagent.com/app/uploads/2020/11/google-sheets-logo.png"}
+{"title": "Gsheets u1", "url": "https://docs.google.com/spreadsheets/u/1/", "category": "General", "image": "https://www.liveagent.com/app/uploads/2020/11/google-sheets-logo.png"}
+{"title": "Gsheets u2", "url": "https://docs.google.com/spreadsheets/u/2/", "category": "General", "image": "https://www.liveagent.com/app/uploads/2020/11/google-sheets-logo.png"}
 
 
 {"title": "chatgpt", "url": "https://chatgpt.com/", "category": "AI", "image": "https://logos-world.net/wp-content/uploads/2023/02/ChatGPT-Logo.jpg"}
