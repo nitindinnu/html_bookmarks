@@ -3,7 +3,7 @@
 
 {"title": "!g usr0", "url": "https://www.google.com/webhp?authuser=0", "category": "General", "image": "https://logosmarcas.net/wp-content/uploads/2020/09/Google-Emblema.png"}
 {"title": "!g usr1", "url": "https://www.google.com/webhp?authuser=1", "category": "General", "image": "https://logosmarcas.net/wp-content/uploads/2020/09/Google-Emblema.png"}
-{"title": "!g usr2", "url": "https://www.google.com/webhp?authuser=2", "category": "General", "image": "https://logosmarcas.net/wp-content/uploads/2020/09/Google-Emblema.png
+{"title": "!g usr2", "url": "https://www.google.com/webhp?authuser=2", "category": "General", "image": "https://logosmarcas.net/wp-content/uploads/2020/09/Google-Emblema.png"}
 {"title": "!g usr3", "url": "https://www.google.com/webhp?authuser=3", "category": "General", "image": "https://logosmarcas.net/wp-content/uploads/2020/09/Google-Emblema.png"}
 
 {"title": "Whatsapp Web", "url": "https://web.whatsapp.com/", "category": "General", "image": "https://portalkairos.org/wp-content/uploads/2015/01/whatsapp_logo.png"}
