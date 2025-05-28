@@ -20,6 +20,7 @@
 {"title": "Odesli song search", "url": "https://odesli.co/", "category": "General", "image": "https://songlink-public.s3-us-west-1.amazonaws.com/songlink-odesli-og-image-thumbnail.png"}
 {"title": "Apple Music", "url": "https://music.apple.com/in/home", "category": "General", "image": "https://images.macrumors.com/t/pE5A7lxTRAsaWVcZIMjLL-0I4Tk=/1600x0/article-new/2020/12/apple-music-logo.jpg"}
 {"title": "almalinux iso xfce", "url": "https://wiki.almalinux.org/LiveMedia.html#live-media-options", "category": "ISO", "image": "https://wiki.almalinux.org/images/logo.png"}
+{"title": "almalinux iso 8.4", "url": "https://vault.almalinux.org/8.4/isos/x86_64/", "category": "ISO", "image": "https://wiki.almalinux.org/images/logo.png"}
 {"title": "rockylinux iso xfce", "url": "https://rockylinux.org/download", "category": "ISO", "image": "https://rockylinux.org/images/news/rocky-linux-9-5-ga-release-header.png"}
 
 {"title": "Proton_Mail", "url": "https://mail.proton.me/", "category": "E-Mail", "image": "https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/06/f8d84702.jpg"}
@@ -94,7 +95,7 @@
 {"title": "online2PDF MULTI PAGES", "url": "https://online2pdf.com/multiple-pages-per-sheet#", "category": "BITS", "image": "https://images.hipdf.com/articles/top-online-pdf-software/online2pdf-bmp-to-pdf-converter.jpg"}
 {"title": "online2PDF", "url": "https://online2pdf.com/#", "category": "BITS", "image": "https://images.hipdf.com/articles/top-online-pdf-software/online2pdf-bmp-to-pdf-converter.jpg"}
 {"title": "MY ATHENS", "url": "https://my.openathens.net/app/research", "category": "BITS", "image": "https://admission.bits-pilani.ac.in/images/logo.png"}
-{"title": "RESEARCH GATE", "url": "https://www.researchgate.net/", "category": "BITS", "image": "https://help.researchgate.net/hc/article_attachments/17825143629969"}
+{"title": "RESEARCH GATE", "url": "https://www.researchgate.net/", "category": "BITS", "image": ""}
 
 
 {"title": "SC BANK", "url": "https://retail.sc.com/in/nfs/login.htm", "category": "E-BANKING", "image": "https://www.greatplacetowork.com/images/profiles/7015143/company_image_1.png"}
