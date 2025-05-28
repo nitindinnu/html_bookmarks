@@ -1,7 +1,11 @@
 #{"title": "", "url": "", "category": "", "image": ""}
 #{"title": "", "url": "", "category": "", "image": ""}
 
-{"title": "Google", "url": "https://www.google.com/", "category": "General", "image": "https://logosmarcas.net/wp-content/uploads/2020/09/Google-Emblema.png"}
+{"title": "Google u0", "url": "https://www.google.com/", "category": "General", "image": "https://logosmarcas.net/wp-content/uploads/2020/09/Google-Emblema.png"}
+{"title": "Google u1", "url": "https://www.google.com/webhp?authuser=1", "category": "General", "image": "https://logosmarcas.net/wp-content/uploads/2020/09/Google-Emblema.png"}
+{"title": "Google u2", "url": "https://www.google.com/webhp?authuser=2", "category": "General", "image": "https://logosmarcas.net/wp-content/uploads/2020/09/Google-Emblema.png
+{"title": "Google u3", "url": "https://www.google.com/webhp?authuser=3", "category": "General", "image": "https://logosmarcas.net/wp-content/uploads/2020/09/Google-Emblema.png"}
+
 {"title": "Whatsapp Web", "url": "https://web.whatsapp.com/", "category": "General", "image": "https://portalkairos.org/wp-content/uploads/2015/01/whatsapp_logo.png"}
 {"title": "JustPasteit", "url": "https://justpaste.it/", "category": "General", "image": "https://cdn-1.webcatalog.io/catalog/justpaste-it/justpaste-it-icon-filled-256.png?v=1675593532229"}
 {"title": "Conceptkart", "url": "https://conceptkart.com/", "category": "General", "image": "https://www.slideserve.com/photo/1617628.jpg"}
@@ -45,6 +49,7 @@
 {"title": "Gsheets u0", "url": "https://docs.google.com/spreadsheets/u/0/", "category": "General", "image": "https://www.liveagent.com/app/uploads/2020/11/google-sheets-logo.png"}
 {"title": "Gsheets u1", "url": "https://docs.google.com/spreadsheets/u/1/", "category": "General", "image": "https://www.liveagent.com/app/uploads/2020/11/google-sheets-logo.png"}
 {"title": "Gsheets u2", "url": "https://docs.google.com/spreadsheets/u/2/", "category": "General", "image": "https://www.liveagent.com/app/uploads/2020/11/google-sheets-logo.png"}
+{"title": "Gsheets u3", "url": "https://docs.google.com/spreadsheets/u/3/", "category": "General", "image": "https://www.liveagent.com/app/uploads/2020/11/google-sheets-logo.png"}
 
 
 {"title": "chatgpt", "url": "https://chatgpt.com/", "category": "AI", "image": "https://logos-world.net/wp-content/uploads/2023/02/ChatGPT-Logo.jpg"}
