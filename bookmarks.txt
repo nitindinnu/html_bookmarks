@@ -1,11 +1,11 @@
 #{"title": "", "url": "", "category": "", "image": ""}
 #{"title": "", "url": "", "category": "", "image": ""}
 
+#General
 {"title": "!g usr0", "url": "https://www.google.com/webhp?authuser=0", "category": "General", "image": "https://logosmarcas.net/wp-content/uploads/2020/09/Google-Emblema.png"}
 {"title": "!g usr1", "url": "https://www.google.com/webhp?authuser=1", "category": "General", "image": "https://logosmarcas.net/wp-content/uploads/2020/09/Google-Emblema.png"}
 {"title": "!g usr2", "url": "https://www.google.com/webhp?authuser=2", "category": "General", "image": "https://logosmarcas.net/wp-content/uploads/2020/09/Google-Emblema.png"}
 {"title": "!g usr3", "url": "https://www.google.com/webhp?authuser=3", "category": "General", "image": "https://logosmarcas.net/wp-content/uploads/2020/09/Google-Emblema.png"}
-
 {"title": "Whatsapp Web", "url": "https://web.whatsapp.com/", "category": "General", "image": "https://portalkairos.org/wp-content/uploads/2015/01/whatsapp_logo.png"}
 {"title": "JustPasteit", "url": "https://justpaste.it/", "category": "General", "image": "https://cdn-1.webcatalog.io/catalog/justpaste-it/justpaste-it-icon-filled-256.png?v=1675593532229"}
 {"title": "Conceptkart", "url": "https://conceptkart.com/", "category": "General", "image": "https://www.slideserve.com/photo/1617628.jpg"}
@@ -19,22 +19,10 @@
 {"title": "Office365", "url": "https://www.microsoft365.com/", "category": "General", "image": "https://upload.wikimedia.org/wikipedia/commons/8/85/Microsoft_365_logo.png"}
 {"title": "Odesli song search", "url": "https://odesli.co/", "category": "General", "image": "https://songlink-public.s3-us-west-1.amazonaws.com/songlink-odesli-og-image-thumbnail.png"}
 {"title": "Apple Music", "url": "https://music.apple.com/in/home", "category": "General", "image": "https://images.macrumors.com/t/pE5A7lxTRAsaWVcZIMjLL-0I4Tk=/1600x0/article-new/2020/12/apple-music-logo.jpg"}
-{"title": "almalinux iso xfce", "url": "https://wiki.almalinux.org/LiveMedia.html#live-media-options", "category": "ISO", "image": "https://wiki.almalinux.org/images/logo.png"}
-{"title": "almalinux iso 8.4", "url": "https://vault.almalinux.org/8.4/isos/x86_64/", "category": "ISO", "image": "https://wiki.almalinux.org/images/logo.png"}
-{"title": "rockylinux iso xfce", "url": "https://rockylinux.org/download", "category": "ISO", "image": "https://rockylinux.org/images/news/rocky-linux-9-5-ga-release-header.png"}
-
-{"title": "Proton_Mail", "url": "https://mail.proton.me/", "category": "E-Mail", "image": "https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/06/f8d84702.jpg"}
-{"title": "G-Mail", "url": "https://mail.google.com/mail/", "category": "E-Mail", "image": "https://logos-world.net/wp-content/uploads/2020/11/Gmail-Logo.png"}
-{"title": "Yahoo Mail", "url": "https://mail.yahoo.com/", "category": "E-Mail", "image": "https://i.pcmag.com/imagery/articles/077gxh38bdIAES53P9p0EFo-1.fit_lim.v1604934359.jpg"}
-{"title": "Outlook Mail", "url": "https://outlook.live.com/mail/", "category": "E-Mail", "image": "https://logospng.org/download/microsoft-outlook/logo-microsoft-outlook-1024.png"}
 {"title": "Epic Games", "url": "https://store.epicgames.com/en-US/free-games", "category": "General", "image": "https://logos-world.net/wp-content/uploads/2021/12/Epic-Games-Symbol.png"}
 {"title": "SonyLiv", "url": "https://www.sonyliv.com/", "category": "General", "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/15/86/18/158618f0-e78f-c1ed-efa8-51fe5c7e86b5/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/1200x630wa.png"}
 {"title": "Instagram", "url": "https://www.instagram.com/", "category": "General", "image": "https://logospng.org/download/instagram/logo-instagram-4096.png"}
 {"title": "Sensongsmp3", "url": "https://sensongsmp3.live/", "category": "General", "image": ""}
-
-
-
-
 {"title": "EDA Playground", "url": "https://www.edaplayground.com/", "category": "General", "image": "https://cdn-1.webcatalog.io/catalog/eda-playground/eda-playground-social-preview.png?v=1714774237031"}
 {"title": "Linkedin", "url": "https://www.linkedin.com/feed/", "category": "General", "image": "https://logos-download.com/wp-content/uploads/2016/03/LinkedIn_Logo_2019.png"}
 {"title": "Youtube", "url": "https://www.youtube.com/", "category": "General", "image": "https://www.interstellarrift.com/wiki/images/d/d8/Youtube-logo-png-photo-0.png"}
@@ -46,36 +34,45 @@
 {"title": "Flipkart", "url": "https://www.flipkart.com/", "category": "General", "image": "https://logos-world.net/wp-content/uploads/2020/11/Flipkart-Logo-2015-present.jpg"}
 {"title": "Amazon", "url": "https://www.amazon.in/", "category": "General", "image": "https://1.bp.blogspot.com/-BXfD_cZOtOs/VDmw7RyUWvI/AAAAAAAAFeo/KlBE4G8bOR0/s1600/Logo%2BAmazon.png"}
 {"title": "Onedrive", "url": "https://onedrive.live.com/", "category": "General", "image": "https://www.gestalia.es/wp-content/uploads/2015/09/OneDrive-Logo.png"}
-
 {"title": "Gsheets u0", "url": "https://docs.google.com/spreadsheets/u/0/", "category": "General", "image": "https://www.liveagent.com/app/uploads/2020/11/google-sheets-logo.png"}
 {"title": "Gsheets u1", "url": "https://docs.google.com/spreadsheets/u/1/", "category": "General", "image": "https://www.liveagent.com/app/uploads/2020/11/google-sheets-logo.png"}
 {"title": "Gsheets u2", "url": "https://docs.google.com/spreadsheets/u/2/", "category": "General", "image": "https://www.liveagent.com/app/uploads/2020/11/google-sheets-logo.png"}
 {"title": "Gsheets u3", "url": "https://docs.google.com/spreadsheets/u/3/", "category": "General", "image": "https://www.liveagent.com/app/uploads/2020/11/google-sheets-logo.png"}
-
-
-{"title": "chatgpt", "url": "https://chatgpt.com/", "category": "AI", "image": "https://logos-world.net/wp-content/uploads/2023/02/ChatGPT-Logo.jpg"}
-{"title": "perplexity", "url": "https://www.perplexity.ai/", "category": "AI", "image": "https://logowik.com/content/uploads/images/perplexity4312.logowik.com.webp"}
-
-
-{"title": "MS teams", "url": "https://teams.microsoft.com/v2/", "category": "BITS", "image": "https://logos-world.net/wp-content/uploads/2021/04/Microsoft-Teams-Logo.png"}
-{"title": "Grok", "url": "https://grok.com/?referrer=website", "category": "AI", "image": "https://img-api.mac4ever.com/900/0/05e387909d_twitter-x-grok.webp"}
-{"title": "Claude", "url": "https://claude.ai/", "category": "AI", "image": "https://data-espresso.com/wp-content/uploads/2024/07/claude_ogimage.png"}
-{"title": "Duck AI", "url": "https://duckduckgo.com/?q=DuckDuckGo+AI+Chat&ia=chat&duckai=1/", "category": "AI", "image": "https://static1.srcdn.com/wordpress/wp-content/uploads/2022/08/DuckDuckGo-logo-on-custom-background.jpg"}
-
-
-
-{"title": "udemy", "url": "https://www.udemy.com/home/my-courses/", "category": "Edu", "image": "https://logos-world.net/wp-content/uploads/2021/11/Udemy-Logo.png"}
-
 {"title": "Winstall", "url": "https://winstall.app/", "category": "General", "image": "https://1.bp.blogspot.com/-jLNfpxWBfm4/X3tHA3tsnKI/AAAAAAAAB_g/vV9cLG_5J_8Mp_YngwAbhSpUrtA_dG9ZQCLcBGAsYHQ/w1200-h630-p-k-no-nu/Winstall.jpg"}
-{"title": "phind", "url": "https://www.phind.com/", "category": "AI", "image": "https://digialps.com/wp-content/uploads/2023/08/Phind-AI-Search-Engine-Latest-Updates-Reviews-and-Pricing.png"}
 {"title": "Twitter X", "url": "https://x.com/home", "category": "General", "image": "https://imgs.hipertextual.com/wp-content/uploads/2023/07/x-twitter-001.jpg"}
-#{"title": "YT", "url": "https://www.youtube.com/", "category": "General", "image": "https://s3-eu-central-1.amazonaws.com/centaur-wp/designweek/prod/content/uploads/2017/08/30151749/yt_logo_rgb_light2.jpg"}
 {"title": "YT MUSIC", "url": "https://music.youtube.com/", "category": "General", "image": "https://estaticos.sport.es/resources/jpg/7/3/1581166298637.jpg"}
 {"title": "EPFO", "url": "https://unifiedportal-mem.epfindia.gov.in/memberinterface/", "category": "General", "image": "https://www.goodreturns.in/img/1200x60x675/2022/10/epf1-1666692613.jpg"}
 {"title": "EPFO PASSBOOK", "url": "https://passbook.epfindia.gov.in/MemberPassBook/login", "category": "General", "image": "https://digivillfin.in/content/images/2024/07/View-Passbook-of-EPFO-on-UMANG.png"}
+{"title": "IMG2PDF OFFLINE", "url": "https://subhra74.github.io/img2pdf/", "category": "General", "image":"https://jpcdn.it/img/e736f91d7e8226a2320faa5975f86aa2.png"}
+
+
+#ISO
+{"title": "almalinux iso xfce", "url": "https://wiki.almalinux.org/LiveMedia.html#live-media-options", "category": "ISO", "image": "https://wiki.almalinux.org/images/logo.png"}
+{"title": "almalinux iso 8.4", "url": "https://vault.almalinux.org/8.4/isos/x86_64/", "category": "ISO", "image": "https://wiki.almalinux.org/images/logo.png"}
+{"title": "rockylinux iso xfce", "url": "https://rockylinux.org/download", "category": "ISO", "image": "https://rockylinux.org/images/news/rocky-linux-9-5-ga-release-header.png"}
+
+
+#E-Mail
+{"title": "Proton_Mail", "url": "https://mail.proton.me/", "category": "E-Mail", "image": "https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/06/f8d84702.jpg"}
+{"title": "G-Mail", "url": "https://mail.google.com/mail/", "category": "E-Mail", "image": "https://logos-world.net/wp-content/uploads/2020/11/Gmail-Logo.png"}
+{"title": "Yahoo Mail", "url": "https://mail.yahoo.com/", "category": "E-Mail", "image": "https://i.pcmag.com/imagery/articles/077gxh38bdIAES53P9p0EFo-1.fit_lim.v1604934359.jpg"}
+{"title": "Outlook Mail", "url": "https://outlook.live.com/mail/", "category": "E-Mail", "image": "https://logospng.org/download/microsoft-outlook/logo-microsoft-outlook-1024.png"}
+
+#AI
+{"title": "chatgpt", "url": "https://chatgpt.com/", "category": "AI", "image": "https://logos-world.net/wp-content/uploads/2023/02/ChatGPT-Logo.jpg"}
+{"title": "perplexity", "url": "https://www.perplexity.ai/", "category": "AI", "image": "https://logowik.com/content/uploads/images/perplexity4312.logowik.com.webp"}
+{"title": "Grok", "url": "https://grok.com/?referrer=website", "category": "AI", "image": "https://img-api.mac4ever.com/900/0/05e387909d_twitter-x-grok.webp"}
+{"title": "Claude", "url": "https://claude.ai/", "category": "AI", "image": "https://data-espresso.com/wp-content/uploads/2024/07/claude_ogimage.png"}
+{"title": "phind", "url": "https://www.phind.com/", "category": "AI", "image": "https://digialps.com/wp-content/uploads/2023/08/Phind-AI-Search-Engine-Latest-Updates-Reviews-and-Pricing.png"}
+{"title": "Duck AI", "url": "https://duckduckgo.com/?q=DuckDuckGo+AI+Chat&ia=chat&duckai=1/", "category": "AI", "image": "https://static1.srcdn.com/wordpress/wp-content/uploads/2022/08/DuckDuckGo-logo-on-custom-background.jpg"}
 {"title": "Verssel", "url": "https://v0.dev/chat", "category": "AI", "image": "https://149842345.v2.pressablecdn.com/wp-content/uploads/2023/08/vercel-cloud-hosting-platform.jpg"}
 
 
+#Edu
+{"title": "udemy", "url": "https://www.udemy.com/home/my-courses/", "category": "Edu", "image": "https://logos-world.net/wp-content/uploads/2021/11/Udemy-Logo.png"}
+
+
+#Chrome Extensions
 {"title": "Bitwarden Password Manager", "url": "https://chromewebstore.google.com/detail/bitwarden-password-manage/nngceckbapebfimnlniiiahkandclblb", "category": "Chrome Extensions", "image": ""}
 {"title": "Reels Download", "url": "https://chromewebstore.google.com/detail/reel-downloader-for-insta/clbmpindgjghmmjnimonbacdodbdnnkj", "category": "Chrome Extensions", "image": ""}
 {"title": "DuckDuckGo Privacy Essentials", "url": "https://chromewebstore.google.com/detail/duckduckgo-privacy-essent/bkdgflcldnnnapblkhphbgpggdiikppg", "category": "Chrome Extensions", "image": ""}
@@ -87,6 +84,7 @@
 {"title": "Cherry Pick - Maximize Credit Card Rewards", "url": "https://chromewebstore.google.com/detail/cherry-pick-maximize-cred/ebankejienamjhfeecfcloemnggddgbf", "category": "Chrome Extensions", "image": ""}
 {"title": "Enhancer for YouTube", "url": "https://chromewebstore.google.com/detail/enhancer-for-youtube/ponfpcnoihfmfllpaingbgckeeldkhle", "category": "Chrome Extensions", "image": ""}
 
+#BITS
 {"title": "LAB ACCESS", "url": "https://osha-bits.codeargo.net/", "category": "BITS", "image": "https://admission.bits-pilani.ac.in/images/logo.png"}
 {"title": "TAXILA ELEARN", "url": "https://elearn.bits-pilani.ac.in/user/courses/", "category": "BITS", "image": "https://admission.bits-pilani.ac.in/images/logo.png"}
 {"title": "METTL", "url": "https://certification.mettl.com/bits-pilani-wilp/applicant/login", "category": "BITS", "image": "https://financesonline.com/uploads/2019/09/Mettl-logo1.png"}
@@ -96,8 +94,9 @@
 {"title": "online2PDF", "url": "https://online2pdf.com/#", "category": "BITS", "image": "https://images.hipdf.com/articles/top-online-pdf-software/online2pdf-bmp-to-pdf-converter.jpg"}
 {"title": "MY ATHENS", "url": "https://my.openathens.net/app/research", "category": "BITS", "image": "https://admission.bits-pilani.ac.in/images/logo.png"}
 {"title": "RESEARCH GATE", "url": "https://www.researchgate.net/", "category": "BITS", "image": ""}
+{"title": "MS teams", "url": "https://teams.microsoft.com/v2/", "category": "BITS", "image": "https://logos-world.net/wp-content/uploads/2021/04/Microsoft-Teams-Logo.png"}
 
-
+#E-BANKING
 {"title": "SC BANK", "url": "https://retail.sc.com/in/nfs/login.htm", "category": "E-BANKING", "image": "https://www.greatplacetowork.com/images/profiles/7015143/company_image_1.png"}
 {"title": "BOB", "url": "https://www.bankofbaroda.in/personal-banking/digital-products/instant-banking/bob-world-internet-banking", "category": "E-BANKING", "image": "https://1.bp.blogspot.com/-9jrWBuQ8D-s/XefTxFtxDnI/AAAAAAAAFrc/fyWkkXhnHhgif42VgH0lOZsacWeHvMOfwCEwYBhgL/s1600/bob%2Bnet%2Bbanking.jpg"}
 {"title": "AXIS OMNI", "url": "https://omni.axisbank.co.in/axisretailbanking/", "category": "E-BANKING", "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/43/b3/f5/43b3f519-1239-4e32-6a5e-ec5f5379b7d0/AppIcon-0-0-1x_U007emarketing-0-0-0-6-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/1200x630wa.png"}
@@ -106,6 +105,18 @@
 {"title": "IDFC FIRST", "url": "https://my.idfcfirstbank.com/login/", "category": "E-BANKING", "image": "https://logos-download.com/wp-content/uploads/2022/11/IDFC_First_Bank_Logo-2048x730.png"}
 {"title": "HDFC", "url": "https://netportal.hdfcbank.com/login#/openMarketLoginCC", "category": "E-BANKING", "image": "https://logohistory.net/wp-content/uploads/2023/08/HDFC-Bank-Limited-Logo.jpg"}
 
+#WIN_APPS
 {"title": "Windows Repair tool", "url": "https://windows-repair-toolbox.com/", "category": "WIN_APPS", "image": ""}
-{"title": "IMG2PDF OFFLINE", "url": "https://subhra74.github.io/img2pdf/", "category": "General", "image":"https://jpcdn.it/img/e736f91d7e8226a2320faa5975f86aa2.png"}
+
+#CODE2IMG
+{"title": "CARBON NOW", "url": "https://carbon.now.sh/", "category": "CODE2IMG", "image": "https://external-content.duckduckgo.com/ip3/carbon.now.sh.ico"}
+{"title": "RAY SO", "url": "https://ray.so/", "category": "CODE2IMG", "image": "https://external-content.duckduckgo.com/ip3/www.ray.so.ico"}
+{"title": "KOD SO", "url": "https://kod.so/", "category": "CODE2IMG", "image": "https://external-content.duckduckgo.com/ip3/www.kod.so.ico"}
+{"title": "PIKA STYLE", "url": "https://pika.style/", "category": "CODE2IMG", "image": "https://external-content.duckduckgo.com/ip3/www.pika.style.ico"}
+{"title": "IMG 2 TXT", "url": "http://www.to-text.net/", "category": "CODE2IMG", "image": "https://external-content.duckduckgo.com/ip3/www.to-text.net.ico"}
+{"title": "Linkedin post to img", "url": "https://poet.so/", "category": "CODE2IMG", "image": "https://external-content.duckduckgo.com/ip3/www.poet.so.ico"}
+{"title": "CODE BEAUTIFY", "url": "https://codebeautify.org/", "category": "CODE2IMG", "image": "https://external-content.duckduckgo.com/ip3/www.codebeautify.org.ico"}
+{"title": "POSTR ME", "url": "https://postr.me/", "category": "CODE2IMG", "image": "https://external-content.duckduckgo.com/ip3/www.postr.me.ico"}
+{"title": "SITE LIKE", "url": "https://www.sitelike.org/", "category": "CODE2IMG", "image": "https://external-content.duckduckgo.com/ip3/www.sitelike.org.ico"}
+
 
