@@ -45,6 +45,7 @@
 {"title": "EPFO PASSBOOK", "url": "https://passbook.epfindia.gov.in/MemberPassBook/login", "category": "General", "image": "https://digivillfin.in/content/images/2024/07/View-Passbook-of-EPFO-on-UMANG.png"}
 {"title": "IMG2PDF OFFLINE", "url": "https://subhra74.github.io/img2pdf/", "category": "General", "image":"https://jpcdn.it/img/e736f91d7e8226a2320faa5975f86aa2.png"}
 {"title": "YT vanxed", "url": "https://github.com/NoName-exe/revanced/releases", "category": "General", "image": "https://repository-images.githubusercontent.com/472090226/961b1390-e2e3-43c3-9e49-d83eb19994a1"}
+{"title": "samperals Hi-Res Music", "url": "https://www.samperals.net/index.php", "category": "General", "image": "https://www.samperals.net/data/assets/logo/fina.png"}
 
 
 #ISO
