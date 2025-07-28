@@ -68,6 +68,9 @@
 {"title": "phind", "url": "https://www.phind.com/", "category": "AI", "image": "https://digialps.com/wp-content/uploads/2023/08/Phind-AI-Search-Engine-Latest-Updates-Reviews-and-Pricing.png"}
 {"title": "Duck AI", "url": "https://duckduckgo.com/?q=DuckDuckGo+AI+Chat&ia=chat&duckai=1/", "category": "AI", "image": "https://static1.srcdn.com/wordpress/wp-content/uploads/2022/08/DuckDuckGo-logo-on-custom-background.jpg"}
 {"title": "Verssel", "url": "https://v0.dev/chat", "category": "AI", "image": "https://149842345.v2.pressablecdn.com/wp-content/uploads/2023/08/vercel-cloud-hosting-platform.jpg"}
+{"title": "notegpt ai detector", "url": "https://notegpt.io/ai-detector", "category": "AI", "image": "https://cdn.zbaseglobal.com/saasbox/product/icon/dd519cec1d1b8f54248dfa92d56375e2.png"}
+{"title": "Humanizer AI", "url": "https://www.humanizeai.pro/", "category": "AI", "image": ""}
+
 
 
 #Edu
@@ -88,6 +91,7 @@
 
 #BITS
 {"title": "LAB ACCESS", "url": "https://osha-bits.codeargo.net/", "category": "BITS", "image": "https://admission.bits-pilani.ac.in/images/logo.png"}
+{"title": "VIVA", "url": "https://viva.bits-pilani.ac.in/student/progress_report/", "category": "BITS", "image": "https://admission.bits-pilani.ac.in/images/logo.png"}
 {"title": "TAXILA ELEARN", "url": "https://elearn.bits-pilani.ac.in/user/courses/", "category": "BITS", "image": "https://admission.bits-pilani.ac.in/images/logo.png"}
 {"title": "METTL", "url": "https://certification.mettl.com/bits-pilani-wilp/applicant/login", "category": "BITS", "image": "https://financesonline.com/uploads/2019/09/Mettl-logo1.png"}
 {"title": "NANOHUB", "url": "https://nanohub.org/login?primary=hubzero&reset=1&return=aHR0cHM6Ly9uYW5vaHViLm9yZy9tZW1iZXJzL3JlZ2lzdGVyL2NvbmZpcm0/Y29uZmlybT0xNjg3OTc3OTYmcmV0dXJuPQ==", "category": "BITS", "image": "https://nanohub.org/app/site/groups/20842/uploads/nanoHUB_bluefull.png"}
