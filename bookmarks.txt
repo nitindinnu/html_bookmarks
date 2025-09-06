@@ -50,6 +50,8 @@
 {"title": "Windows Genuine ISO -zone94 ", "url": "https://zone94.com/software/operating-systems", "category": "General", "image": "https://zone94.com/software/operating-systems"}
 {"title": "Cloudconnexa Admin_&_user nitindinnu", "url": "https://myaccount.openvpn.com/signin/cvpn/nitindinnu", "category": "General", "image": "https://openvpn.net/wp-content/uploads/CloudConnexa_Video.png"}
 {"title": "Cloudconnexa Admin_&_user dinnunitin", "url": "https://myaccount.openvpn.com/signin/cvpn/dinnunitin", "category": "General", "image": "https://openvpn.net/wp-content/uploads/CloudConnexa_Video.png"}
+{"title": "BikeDekho", "url": "https://www.bikedekho.com/", "category": "General", "image": "https://cdn.bikedekho.com/pwa/img/BD-new-logo-2023.svg"}
+{"title": "CarDekho", "url": "https://www.cardekho.com/", "category": "General", "image": "https://stimg.cardekho.com/pwa/img/carDekho-newLogo.svg"}
 
 
 
