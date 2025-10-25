@@ -53,6 +53,9 @@
 {"title": "BikeDekho", "url": "https://www.bikedekho.com/", "category": "General", "image": "https://cdn.bikedekho.com/pwa/img/BD-new-logo-2023.svg"}
 {"title": "CarDekho", "url": "https://www.cardekho.com/", "category": "General", "image": "https://stimg.cardekho.com/pwa/img/carDekho-newLogo.svg"}
 {"title": "markdowntopdf", "url": "https://aninerd.github.io/md2pdf/", "category": "General", "image": "https://jpcdn.it/img/21676c2cb68e7cae3c3a0d9536df6fb4.png"}
+{"title": "airtel_airfiber_config", "url": "https://192.168.1.1/cgi-bin/login_advance.cgi", "category": "General", "image": ""}
+{"title": "insta pro apk (SamMods)", "url": "https://www.instamod.co/", "category": "General", "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiEjgyP9VNme4fs1Copuz6ZdYBWDAGV_Pisf3JDnXgA6HMF5XLUcYI0KD2TOdkMuYYXMdjGwWHMhAguA6ZgEnvg3gZAqrPyjl_dRlFiNbjeegMUq2e2f5PjDqxCtVvhawso40ypmhRY291xpwygrQ6NeBaFIPQiWi5vBGfeY0PIYBJno4N39mIHNh8E5Zg5/w640-h360/instapro%20base%20update.webp"}
+
 
 #General_H
 
@@ -68,6 +71,11 @@
 {"title": "G-Mail", "url": "https://mail.google.com/mail/", "category": "E-Mail", "image": "https://logos-world.net/wp-content/uploads/2020/11/Gmail-Logo.png"}
 {"title": "Yahoo Mail", "url": "https://mail.yahoo.com/", "category": "E-Mail", "image": "https://i.pcmag.com/imagery/articles/077gxh38bdIAES53P9p0EFo-1.fit_lim.v1604934359.jpg"}
 {"title": "Outlook Mail", "url": "https://outlook.live.com/mail/", "category": "E-Mail", "image": "https://logospng.org/download/microsoft-outlook/logo-microsoft-outlook-1024.png"}
+{"title": "Tuta Mail", "url": "https://app.tuta.com/mail/", "category": "E-Mail", "image": "https://play-lh.googleusercontent.com/Lz3lyv-Bb_R5gY35XdiPds-Tx-mpUIm6R5IL6nJByv8fXCr6PGLn63vjgNDV-9e5zHI"}
+
+#Stocks
+{"title": "TradingView", "url": "https://in.tradingview.com/", "category": "Stocks", "image": "https://www.svgrepo.com/show/519829/tradingview.svg"}
+{"title": "Groww", "url": "https://groww.in/stocks/user/explore", "category": "Stocks", "image": "https://resources.groww.in/web-assets/img/website-logo/groww-logo-270.webp"}
 
 #AI
 {"title": "chatgpt", "url": "https://chatgpt.com/", "category": "AI", "image": "https://logos-world.net/wp-content/uploads/2023/02/ChatGPT-Logo.jpg"}
