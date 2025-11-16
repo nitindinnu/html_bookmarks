@@ -55,9 +55,15 @@
 {"title": "markdowntopdf", "url": "https://aninerd.github.io/md2pdf/", "category": "General", "image": "https://jpcdn.it/img/21676c2cb68e7cae3c3a0d9536df6fb4.png"}
 {"title": "airtel_airfiber_config", "url": "https://192.168.1.1/cgi-bin/login_advance.cgi", "category": "General", "image": ""}
 {"title": "insta pro apk (SamMods)", "url": "https://www.instamod.co/", "category": "General", "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiEjgyP9VNme4fs1Copuz6ZdYBWDAGV_Pisf3JDnXgA6HMF5XLUcYI0KD2TOdkMuYYXMdjGwWHMhAguA6ZgEnvg3gZAqrPyjl_dRlFiNbjeegMUq2e2f5PjDqxCtVvhawso40ypmhRY291xpwygrQ6NeBaFIPQiWi5vBGfeY0PIYBJno4N39mIHNh8E5Zg5/w640-h360/instapro%20base%20update.webp"}
-
+{"title": "PDF2IMG", "url": "https://xxlllq.github.io/pdf2img/", "category": "", "image": ""}
+{"title": "raindrop", "url": "https://app.raindrop.io/", "category": "", "image": ""}
+{"title": "", "url": "", "category": "", "image": ""}
+{"title": "", "url": "https://www.sharedrop.io", "category": "", "image": ""}
 
 #General_H
+
+#cloud_storage
+{"title": "Filen", "url": "https://drive.filen.io/", "category": "", "image": ""}
 
 
 #ISO
@@ -92,6 +98,24 @@
 
 #Edu
 {"title": "udemy", "url": "https://www.udemy.com/home/my-courses/", "category": "Edu", "image": "https://logos-world.net/wp-content/uploads/2021/11/Udemy-Logo.png"}
+{"title": "Qualcomm Academy", "url": "https://academy.qualcomm.com/", "category": "Edu", "image": ""}
+{"title": "Edx", "url": "https://home.edx.org/", "category": "Edu", "image": ""}
+
+
+#AI_WEBS
+{"title": "QuillBot", "url": "https://quillbot.com/grammar-check", "category": "", "image": ""}
+{"title": "Autodraw AI draw Tool", "url": "https://www.autodraw.com/", "category": "", "image": ""}
+{"title": "Photopea - online photoshop", "url": "https://www.photopea.com/", "category": "", "image": ""}
+{"title": "Watermarker_remover", "url": "https://www.watermarkremover.io/", "category": "", "image": ""}
+{"title": "Dictation IO", "url": "https://dictation.io/", "category": "", "image": ""}
+{"title": "Super MEME", "url": "https://www.supermeme.ai/", "category": "", "image": ""}
+{"title": "The Paint", "url": "https://theinpaint.com/", "category": "", "image": ""}
+{"title": "Typeracer", "url": "https://play.typeracer.com/", "category": "", "image": ""}
+{"title": "SimilarWeb", "url": "https://www.similarweb.com/", "category": "", "image": ""}
+{"title": "Voice Remover", "url": "https://vocalremover.org", "category": "", "image": ""}
+
+
+
 
 
 #Chrome Extensions
@@ -144,16 +168,28 @@
 
 
 #SEARCH_ENGINES
-#{"title": "", "url": "", "category": "SEARCH_ENGINES", "image": "https://external-content.duckduckgo.com/ip3/.ico"}
-#{"title": "", "url": "", "category": "SEARCH_ENGINES", "image": "https://external-content.duckduckgo.com/ip3/.ico"}
-#{"title": "", "url": "", "category": "SEARCH_ENGINES", "image": "https://external-content.duckduckgo.com/ip3/.ico"}
-#{"title": "", "url": "", "category": "SEARCH_ENGINES", "image": "https://external-content.duckduckgo.com/ip3/.ico"}
-#{"title": "", "url": "", "category": "SEARCH_ENGINES", "image": "https://external-content.duckduckgo.com/ip3/.ico"}
-#{"title": "", "url": "", "category": "SEARCH_ENGINES", "image": "https://external-content.duckduckgo.com/ip3/.ico"}
-#{"title": "", "url": "", "category": "SEARCH_ENGINES", "image": "https://external-content.duckduckgo.com/ip3/.ico"}
-#{"title": "", "url": "", "category": "SEARCH_ENGINES", "image": "https://external-content.duckduckgo.com/ip3/.ico"}
-#{"title": "", "url": "", "category": "SEARCH_ENGINES", "image": "https://external-content.duckduckgo.com/ip3/.ico"}
-#{"title": "", "url": "", "category": "SEARCH_ENGINES", "image": "https://external-content.duckduckgo.com/ip3/.ico"}
-#{"title": "", "url": "", "category": "SEARCH_ENGINES", "image": "https://external-content.duckduckgo.com/ip3/.ico"}
+#{"title": "Search Engine Map", "url": "https://www.searchenginemap.com/", "category": "SEARCH_ENGINES", "image": ""}
+#{"title": "Craws and Meta Search", "url": "https://blog.mojeek.com/2013/10/crawler-based-search-engine.html", "category": "SEARCH_ENGINES", "image": ""}
+#{"title": "Search Engine Map JPG", "url": "https://www.searchenginemap.com/search-engine-map-infographic.jpg", "category": "SEARCH_ENGINES", "image": ""}
+#{"title": "PreSearch", "url": "https://presearch.com/", "category": "SEARCH_ENGINES", "image": ""}
+#{"title": "EntireWeb", "url": "https://www.entireweb.com/", "category": "SEARCH_ENGINES", "image": ""}
+#{"title": "Shodan", "url": "https://www.shodan.io", "category": "SEARCH_ENGINES", "image": ""}
+#{"title": "TinyEye Image search", "url": "https://tineye.com/", "category": "SEARCH_ENGINES", "image": ""}
+#{"title": "Duckduckgo", "url": "https://duckduckgo.com/", "category": "SEARCH_ENGINES", "image": ""}
+#{"title": "StartPage", "url": "https://www.startpage.com/", "category": "SEARCH_ENGINES", "image": ""}
+#{"title": "", "url": "", "category": "SEARCH_ENGINES", "image": ""}
+
+
+#JOB_SEARCH
+#{"title": "Naukri", "url": "https://www.naukri.com/mnjuser/recommendedjobs", "category": "JOB_SEARCH", "image": ""}
+#{"title": "indeed", "url": "https://in.indeed.com/", "category": "JOB_SEARCH", "image": ""}
+#{"title": "migratemate", "url": "https://migratemate.co/", "category": "JOB_SEARCH", "image": ""}
+#{"title": "", "url": "", "category": "JOB_SEARCH", "image": ""}
+#{"title": "", "url": "", "category": "JOB_SEARCH", "image": ""}
+#{"title": "", "url": "", "category": "JOB_SEARCH", "image": ""}
+
+#TIMEPASS_WEBS
+#{"title": "elgoog", "url": "https://elgoog.im/", "category": "TIMEPASS_WEBS", "image": ""}
+
 
 

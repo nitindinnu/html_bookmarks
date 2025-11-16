@@ -1,0 +1,105 @@
+#{"title": "", "url": "", "category": "", "image": ""}
+#{"title": "", "url": "", "category": "", "image": ""}
+
+#VLSI_WEB_Tools
+{"title": "VS Code", "url": "https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf", "category": "VLSI_WEB_Tools", "image": ""}
+{"title": "Design&Reuse", "url": "https://www.design-reuse.com/", "category": "VLSI_WEB_Tools", "image": ""}
+{"title": "OpenCores", "url": "https://opencores.org/", "category": "VLSI_WEB_Tools", "image": ""}
+{"title": "Modelsim", "url": "https://vhdlwhiz.com/the-modelsim-commands-you-need-to-know/", "category": "VLSI_WEB_Tools", "image": ""}
+{"title": "makefile in questasim", "url": "https://verificationacademy.com/forums/t/how-to-run-script-files-in-questa-sim-i-am-facing-problem-while-running-sript-files/30439", "category": "VLSI_WEB_Tools", "image": ""}
+{"title": "fsdb", "url": "https://duckduckgo.com/?q=fsdb+file&atb=v402-1&ia=web", "category": "VLSI_WEB_Tools", "image": ""}
+{"title": "VLSI IPs by Truechip", "url": "https://www.truechip.net/product/verification-ip/s-592834231", "category": "VLSI_WEB_Tools", "image": ""}
+{"title": "WIKI chip - VLSI news", "url": "https://fuse.wikichip.org/", "category": "VLSI_WEB_Tools", "image": ""}
+{"title": "Wikichip - Technology Node", "url": "https://en.wikichip.org/wiki/WikiChip", "category": "VLSI_WEB_Tools", "image": ""}
+{"title": "", "url": "", "category": "VLSI_WEB_Tools", "image": ""}
+{"title": "", "url": "", "category": "VLSI_WEB_Tools", "image": ""}
+{"title": "", "url": "", "category": "VLSI_WEB_Tools", "image": ""}
+{"title": "", "url": "", "category": "VLSI_WEB_Tools", "image": ""}
+{"title": "", "url": "", "category": "VLSI_WEB_Tools", "image": ""}
+{"title": "", "url": "", "category": "VLSI_WEB_Tools", "image": ""}
+{"title": "", "url": "", "category": "VLSI_WEB_Tools", "image": ""}
+{"title": "", "url": "", "category": "VLSI_WEB_Tools", "image": ""}
+{"title": "", "url": "", "category": "VLSI_WEB_Tools", "image": ""}
+
+
+
+#Digital_Electronics
+{"title": "Finite State Machine Designer - by Evan Wallace", "url": "https://www.madebyevan.com/fsm/", "category": "Digital_Electronics", "image": ""}
+{"title": "WaveDrom Editor", "url": "https://wavedrom.com/editor.html", "category": "Digital_Electronics", "image": ""}
+
+
+
+#Verilog
+{"title": "research papers search", "url": "https://sci-hub.usualwant.com/", "category": "Verilog", "image": ""}
+{"title": "PeterFab verilog", "url": "https://peterfab.com/ref/verilog/verilog_renerta/source/vrg00012.htm", "category": "Verilog", "image": ""}
+{"title": "ASIC CO", "url": "http://www.asic.co.in/", "category": "Verilog", "image": ""}
+{"title": "VLSI IP", "url": "http://www.vlsiip.com/", "category": "Verilog", "image": ""}
+{"title": "DOULUS VERILOG", "url": "https://www.doulos.com/knowhow/verilog/", "category": "Verilog", "image": ""}
+{"title": "OCTECT INSTITUTE VERILOG", "url": "https://www.theoctetinstitute.com/content/verilog/introduction/", "category": "Verilog", "image": ""}
+{"title": "Circuit Love", "url": "https://circuitcove.com/system-tasks-random/", "category": "Verilog", "image": ""}
+{"title": "Vlsi Verify", "url": "https://vlsiverify.com/", "category": "Verilog", "image": ""}
+{"title": "Chipverify Verilog", "url": "https://www.chipverify.com/verilog", "category": "Verilog", "image": ""}
+{"title": "VLSI MASTER", "url": "https://vlsimaster.com/gate-delays/", "category": "Verilog", "image": ""}
+{"title": "SYSTEM VERILOG IO", "url": "https://www.systemverilog.io/verification/generate/", "category": "Verilog", "image": ""}
+{"title": "MIT VERILOG", "url": "https://web.mit.edu/6.111/www/f2017/handouts/", "category": "Verilog", "image": ""}
+{"title": "TESTBENCH IN", "url": "https://www.testbench.in/TB_22_COMPILATION_N_SIMULATION_SWITCHS.html", "category": "Verilog", "image": ""}
+{"title": "SI PREFIX", "url": "https://www.nist.gov/pml/owm/metric-si-prefixes", "category": "Verilog", "image": ""}
+{"title": "FPGA CPU all verilog ckts", "url": "https://fpgacpu.ca/fpga/", "category": "Verilog", "image": ""}
+{"title": "MICROCHIP UNIVERSITY", "url": "https://mu.microchip.com/", "category": "Verilog", "image": ""}
+{"title": "Red Pitaya - Learn FPGA", "url": "https://documentation-rp-test.readthedocs.io/en/latest/", "category": "Verilog", "image": ""}
+{"title": "VERILOG SYSTEM TASKS", "url": "https://www.simplistechnologies.com/documentation/simetrix/verilog_a_reference/topics/verilog_areference_verilog_afunctions.htm", "category": "Verilog", "image": ""}
+{"title": "NANDLAND", "url": "https://nandland.com/", "category": "Verilog", "image": ""}
+{"title": "SutherLand HDL (BA vs NBA)", "url": "https://sutherland-hdl.com/papers/1996-CUG-presentation_nonblocking_assigns.pdf", "category": "Verilog", "image": ""}
+{"title": "MY HDL", "url": "https://www.myhdl.org/docs/examples/flipflops.html", "category": "Verilog", "image": ""}
+{"title": "CSAIL MIT", "url": "https://courses.csail.mit.edu/6.111/f2007/handouts/", "category": "Verilog", "image": ""}
+{"title": "CSAIL MIT (BAvsNBA)", "url": "https://courses.csail.mit.edu/6.111/f2007/handouts/L06.pdf", "category": "Verilog", "image": ""}
+{"title": "Verilog FILE IO", "url": "https://ovisign.com/verilog-verification/verilog-write-read-file-operations/", "category": "Verilog", "image": ""}
+{"title": "ASIC CO INTERVIEW QUES", "url": "http://www.asic.co.in/Index_files/verilog_interview_questions2.htm", "category": "Verilog", "image": ""}
+{"title": "Verilog FAQ", "url": "http://www.faqs.org/faqs/verilog-faq/", "category": "Verilog", "image": ""}
+{"title": "HDL bits", "url": "https://hdlbits.01xz.net/wiki/Main_Page", "category": "Verilog", "image": ""}
+{"title": "SV FSM", "url": "https://www.intel.com/content/www/us/en/docs/programmable/683082/22-1/systemverilog-state-machine-coding-example.html", "category": "Verilog", "image": ""}
+{"title": "Reference designer verilog", "url": "https://www.referencedesigner.com/tutorials/verilog/verilog_01.php", "category": "Verilog", "image": ""}
+{"title": "Verilog cseweb", "url": "https://cseweb.ucsd.edu/classes/sp11/cse141L/pdf/01/SV_Part_1.pdf", "category": "Verilog", "image": ""}
+{"title": "", "url": "", "category": "Verilog", "image": ""}
+{"title": "", "url": "", "category": "Verilog", "image": ""}
+{"title": "", "url": "", "category": "Verilog", "image": ""}
+{"title": "", "url": "", "category": "Verilog", "image": ""}
+{"title": "", "url": "", "category": "Verilog", "image": ""}
+{"title": "", "url": "", "category": "Verilog", "image": ""}
+
+
+
+
+#SytemVerilog
+{"title": "SV LRM", "url": "https://ece.uah.edu/~gaede/cpe526/SystemVerilog_3.1a.pdf", "category": "SytemVerilog", "image": ""}
+{"title": "UOBDV DV", "url": "https://uobdv.github.io/Design-Verification/", "category": "SytemVerilog", "image": ""}
+{"title": "The Art of Verification", "url": "https://www.theartofverification.com/", "category": "SytemVerilog", "image": ""}
+{"title": "GrowDv", "url": "https://growdv.com/", "category": "SytemVerilog", "image": ""}
+{"title": "Verification Academy", "url": "https://verificationacademy.com/", "category": "SytemVerilog", "image": ""}
+{"title": "VLSI.pro", "url": "https://vlsi.pro/1/", "category": "SytemVerilog", "image": ""}
+{"title": "VerificationGuide", "url": "https://verificationguide.com/", "category": "SytemVerilog", "image": ""}
+{"title": "Octect institute Sv", "url": "https://www.theoctetinstitute.com/content/sv/introduction/", "category": "SytemVerilog", "image": ""}
+{"title": "ASIC-WORLD", "url": "https://www.asic-world.com/systemverilog/", "category": "SytemVerilog", "image": ""}
+{"title": "TESTBENCH4U", "url": "https://testbench4u.com/2018/10/01/write-a-system-verilog-constraint-to-generate-unique-values-in-array/", "category": "SytemVerilog", "image": ""}
+{"title": "", "url": "", "category": "SytemVerilog", "image": ""}
+{"title": "", "url": "", "category": "SytemVerilog", "image": ""}
+{"title": "", "url": "", "category": "SytemVerilog", "image": ""}
+{"title": "", "url": "", "category": "SytemVerilog", "image": ""}
+{"title": "", "url": "", "category": "SytemVerilog", "image": ""}
+{"title": "", "url": "", "category": "SytemVerilog", "image": ""}
+{"title": "", "url": "", "category": "SytemVerilog", "image": ""}
+{"title": "", "url": "", "category": "SytemVerilog", "image": ""}
+{"title": "", "url": "", "category": "SytemVerilog", "image": ""}
+{"title": "", "url": "", "category": "SytemVerilog", "image": ""}
+{"title": "", "url": "", "category": "SytemVerilog", "image": ""}
+{"title": "", "url": "", "category": "SytemVerilog", "image": ""}
+{"title": "", "url": "", "category": "SytemVerilog", "image": ""}
+{"title": "", "url": "", "category": "SytemVerilog", "image": ""}
+{"title": "", "url": "", "category": "SytemVerilog", "image": ""}
+{"title": "", "url": "", "category": "SytemVerilog", "image": ""}
+
+
+#UVM
+{"title": "", "url": "", "category": "UVM", "image": ""}
+{"title": "", "url": "", "category": "UVM", "image": ""}
+
