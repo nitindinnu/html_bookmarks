@@ -129,6 +129,13 @@
 {"title": "The Great Suspender (notrack)", "url": "https://chromewebstore.google.com/detail/the-great-suspender-notra/ahkbmjhfoplmfkpncgoedjgkajkehcgo", "category": "Chrome Extensions", "image": ""}
 {"title": "Cherry Pick - Maximize Credit Card Rewards", "url": "https://chromewebstore.google.com/detail/cherry-pick-maximize-cred/ebankejienamjhfeecfcloemnggddgbf", "category": "Chrome Extensions", "image": ""}
 {"title": "Enhancer for YouTube", "url": "https://chromewebstore.google.com/detail/enhancer-for-youtube/ponfpcnoihfmfllpaingbgckeeldkhle", "category": "Chrome Extensions", "image": ""}
+{"title": "Auto Reels Scroller", "url": "https://chromewebstore.google.com/detail/auto-reels-scroller/bpgleagdakihfeingnhnknblcfgbfcdo", "category": "Chrome Extensions", "image": "https://lh3.googleusercontent.com/eG-9lyvkqFFALWZHUGiTPwXprxirgS6CtX8eTIn-qCWoJsC3tws9U217XUPpA3pn3cCqkUtrOoYsTknsrFbnWuIZsQ=s60"}
+{"title": "Buyhatke", "url": "https://chromewebstore.google.com/detail/buyhatke-price-history-tr/ojplmecpdpgccookcobabopnaifgidhf", "category": "Chrome Extensions", "image": "https://lh3.googleusercontent.com/5MCP76SIC04mQLsYFJGteu_4jm8EDkW80WX9QtkK9b_cZwyIWhXGJqUBAZDSr7q6cEQhyamxc7taUJZpHsXg_J17=s60"}
+{"title": "QuillBot: AI Writing", "url": "https://chromewebstore.google.com/detail/quillbot-ai-writing-and-g/iidnbdjijdkbmajdffnidomddglmieko", "category": "Chrome Extensions", "image": "https://lh3.googleusercontent.com/duD2Ni0DrGUJY4QjmXL_e8xAGQvnviTvfmFQbRIEHn0RhgP6maLi4TOTZ6sy8XUdxPuyrB1Wam_Mu-PEZCYXS9as=s60"}
+{"title": "", "url": "", "category": "Chrome Extensions", "image": ""}
+{"title": "", "url": "", "category": "Chrome Extensions", "image": ""}
+{"title": "", "url": "", "category": "Chrome Extensions", "image": ""}
+
 
 #BITS
 {"title": "LAB ACCESS", "url": "https://osha-bits.codeargo.net/", "category": "BITS", "image": "https://admission.bits-pilani.ac.in/images/logo.png"}
